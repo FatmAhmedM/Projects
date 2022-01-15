@@ -15,4 +15,4 @@ Here are the results of the projects:
 
 #### after that the result when the mother open the link on her phone to watch her baby.
 
-![](https://github.com/FatmAhmedM/Projects/blob/main/Mother_alert/app_info/motherAlert.jpeg)
+![](https://github.com/FatmAhmedM/Projects/blob/main/Mother_alert/app_info/motheralert.jpeg)
