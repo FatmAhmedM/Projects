@@ -7,7 +7,8 @@ Here are the results of the projects:
 
 ![](https://github.com/FatmAhmedM/Projects/blob/main/Face_Det_Rec/face_recognition/presult.gif)
 
-### 2. Mother Alert**
+### 2. Mother Alert
+## Please ignore that project at the current time
 
 #### Please see the project [Overview](https://github.com/FatmAhmedM/Projects/blob/main/Mother_alert/app_info/Overview.md) first !!
 
